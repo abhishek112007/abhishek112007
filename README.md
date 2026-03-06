@@ -77,12 +77,16 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishek112007&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek112007&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="180" alt="languages graph"  />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abhishek112007&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek112007&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=abhishek112007&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5&background=0D1117" height="180" alt="streak graph"  />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek112007&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishek112007&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 ---
