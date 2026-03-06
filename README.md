@@ -50,19 +50,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abhishek112007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek112007&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-</div>
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek112007&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
