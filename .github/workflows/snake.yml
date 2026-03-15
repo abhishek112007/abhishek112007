@@ -20,9 +20,9 @@ jobs:
         uses: Platane/snk/svg-only@e2cedf76a2c05b25d09a6428ded69727b497a700 # v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          # Removed redundant generation of snake-dark.svg (uses same palette, unused in README)
           outputs: |
             dist/snake.svg?palette=github-dark
-            dist/snake-dark.svg?palette=github-dark
           
       - name: Push snake.svg to output branch
         uses: crazy-max/ghaction-github-pages@v5.0.0
